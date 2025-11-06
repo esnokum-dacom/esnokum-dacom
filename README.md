@@ -4,8 +4,7 @@
 <br>✧˚ My favorite hobbies are **Programming**, **3D (Blender)** and use **Adobe programs (Ph, Ae, Pr)**</br>
 <br>⁀➴ My favorite topics are Medicine (Neurocience), Lenguajes and Psicology</br>
 
-[<div style="display: flex; gap: 2px; align-items: center;">
-<img src="[https://iconic-api.onrender.com/dark/python](https://skills.syvixor.com/api/iconsperline=15&i=blender,adobephotoshop,adobepremierepro,adobeaftereffects,bash,archlinux,javascript,reactjs,electron,lua,c,typescript)" width="64px" />
+[![Skills](https://skills.syvixor.com/api/icons?i=ts,node,expressjs,vue,nuxt,mongodb,prisma)](https://github.com/syvixor/skills-icons)
 
 <a href="https://esnokumDacom.pythonanywhere.com/link"/>
   <img
