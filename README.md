@@ -6,7 +6,7 @@
 
 <br>![Skills](https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobepremierepro,adobeaftereffects)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=bash,archlinux,neovim)</br>
-<br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,lua,c,typescript,powershell)</br>
+<br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,tailwind,lua,c,typescript,powershell)</br>
 
 <a href="https://esnokumDacom.pythonanywhere.com/link"/>
   <img
