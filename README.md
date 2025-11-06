@@ -4,10 +4,9 @@
 <br>✧˚ My favorite hobbies are **Programming**, **3D (Blender)** and use **Adobe programs (Ph, Ae, Pr)**</br>
 <br>⁀➴ My favorite topics are Medicine (Neurocience), Lenguajes and Psicology</br>
 
-&nbsp;<div align="left">
-<p align="left">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pnzljtnauwqpioccr2fcjf2nsy&cover_image=true&theme=spotify-embed&show_offline=true&background_color=4f4f4f&interchange=true&profanity=true&bar_color=000000&bar_color_cover=true&mode=dark">
-  </a>
-</p>
-</div>
+<a href="https://{PA_USERNAME}.pythonanywhere.com/link">
+  <img
+    src="https://{PA_USERNAME}.pythonanywhere.com"
+    alt="Current Spotify Song"
+  />
+</a>
