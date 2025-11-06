@@ -4,9 +4,9 @@
 <br>✧˚ My favorite hobbies are **Programming**, **3D (Blender)** and use **Adobe programs (Ph, Ae, Pr)**</br>
 <br>⁀➴ My favorite topics are Medicine (Neurocience), Lenguajes and Psicology</br>
 
-<a href="https://esnokumDacom.pythonanywhere.com/link">
+<a href="https://esnokumDacom.pythonanywhere.com/link"/?theme=dark>
   <img
     src="https://esnokumDacom.pythonanywhere.com"
     alt="Current Spotify Song"
-  /?theme=dark>
+  />
 </a>
