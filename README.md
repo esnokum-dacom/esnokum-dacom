@@ -5,7 +5,7 @@
 <br>⁀➴ My favorite topics are Medicine (Neurocience), Lenguajes and Psicology</br>
 
 [<div style="display: flex; gap: 2px; align-items: center;">
-<img src="https://iconic-api.onrender.com/dark/python" width="64px" />perline=15&i=blender,adobephotoshop,adobepremierepro,adobeaftereffects,bash,archlinux,javascript,reactjs,electron,lua,c,typescript)" />
+<img src="[https://iconic-api.onrender.com/dark/python](https://skills.syvixor.com/api/iconsperline=15&i=blender,adobephotoshop,adobepremierepro,adobeaftereffects,bash,archlinux,javascript,reactjs,electron,lua,c,typescript)" width="64px" />
 
 <a href="https://esnokumDacom.pythonanywhere.com/link"/>
   <img
