@@ -9,8 +9,8 @@ import json
 import os
 import random
 
-SPOTIFY_CLIENT_ID = os.getenv("SPOTIFY_CLIENT_ID")
-SPOTIFY_SECRET_ID = os.getenv("SPOTIFY_SECRET_ID")
+SPOTIFY_CLIENT_ID = os.getenv("522f34cf68374de8a9e64d04402ca9ba")
+SPOTIFY_SECRET_ID = os.getenv("6fe22a4da44a4828b0a7080acd8f2a6d")
 SPOTIFY_REFRESH_TOKEN = os.getenv("SPOTIFY_REFRESH_TOKEN")
 
 # scope user-read-currently-playing/user-read-recently-played
