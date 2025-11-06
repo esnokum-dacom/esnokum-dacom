@@ -5,7 +5,7 @@
 <br>⁀➴ My favorite topics are Medicine (Neurocience), Lenguajes and Psicology</br>
 
 <br>![Skills](https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobepremierepro,adobeaftereffects)</br>
-<br>![Skills](https://skills.syvixor.com/api/icons?i=bash,archlinux,neovim)</br>
+<br>![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,archlinux,neovim)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,tailwind,lua,c,typescript,powershell)</br>
 
 <a href="https://esnokumDacom.pythonanywhere.com/link"/>
