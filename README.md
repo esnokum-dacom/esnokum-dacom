@@ -8,5 +8,5 @@
   <img
     src="https://esnokumDacom.pythonanywhere.com"
     alt="Current Spotify Song"
-  />
+  /?theme=dark>
 </a>
