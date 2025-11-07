@@ -1,4 +1,4 @@
-h1>୭ ˚. ᵎᵎHi!, I'm onu</h1> <<img width="50" height="50" alt="OnuTembeleque" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />
+h1>୭ ˚. ᵎᵎHi!, I'm onu</h1> <<img width="100" height="100" alt="OnuTembeleque" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />
 
 <br>𓍯𓂃 I love learn about anything</br>
 <br>✧˚ My favorite hobbies are **Programming**, **3D (Blender)** and use **Adobe programs (Ph, Ae, Pr)**</br>
