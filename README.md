@@ -12,7 +12,7 @@
 
 <a href="https://esnokumdacom.pythonanywhere.com/link">
   <img
-    src="https://esnokumdacom.pythonanywhere.com"
+    src="https://esnokumdacom.pythonanywhere.com?theme=dark"
     alt="Current Spotify Song"
   />
 </a>
