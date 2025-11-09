@@ -10,10 +10,5 @@
 <br>![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,archlinux,neovim)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,tailwind,lua,c,typescript,powershell)</br>
 
-<a href="https://esnokumDacom.pythonanywhere.com/link"/>
-  <img
-    src="https://esnokumDacom.pythonanywhere.com?theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
+[![Spotify](https://esnokum-dacom.vercel.app/api/spotify)](https://open.spotify.com/user/31pnzljtnauwqpioccr2fcjf2nsy)
 
