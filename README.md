@@ -10,5 +10,5 @@
 <br>![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,archlinux,neovim)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,tailwind,lua,c,typescript,powershell)</br>
 
-[![Spotify](novatorem-jza5-r0nejk0n1-esnokum-dacoms-projects.vercel.app)](https://open.spotify.com/user/31pnzljtnauwqpioccr2fcjf2nsy)
+[![Spotify](novatorem-jza5-git-main-esnokum-dacoms-projects.vercel.app)](https://open.spotify.com/user/USER_NAME)
 
