@@ -1,5 +1,6 @@
 <div align="center">
-  <img width="100" height="100" place="bottom" alt="OnuTembeleque" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-    9e94-cd344570c237" /><h1>୭ ˚. ᵎᵎHi!, I'm onu</h1>
+  <img width="100" height="100" place="bottom" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />
+  <h1>୭ ˚. ᵎᵎHi!, I'm onu</h1>
 </div>
 
 <div align="center">
