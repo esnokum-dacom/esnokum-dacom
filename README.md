@@ -29,7 +29,7 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/archlinux/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/neovim/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/ffffff" /></br>
-    <br><img height="100" width="100" src="https://skillicons.dev/icons?i=blender,ae,ps,pr" /></br>
+    <br><img height="200" width="200" src="https://skillicons.dev/icons?i=blender,ae,ps,pr" /></br>
 </div>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobepremierepro,adobeaftereffects)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,archlinux,neovim)</br>
