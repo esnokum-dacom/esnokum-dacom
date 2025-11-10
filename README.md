@@ -1,5 +1,5 @@
 <div>
-  <img width="100" height="100" place="bottom" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />
+  <img align="center" width="100" height="100" place="bottom" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />
   <h1 align="center">୭ ˚. ᵎᵎHi!, I'm onu</h1>
 </div>
 
