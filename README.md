@@ -23,8 +23,7 @@
   <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/ffffff" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/lua/ffffff" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/c/ffffff" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/python/ffffff" />
-  <img height="50" width="50" src="https://cdn.simpleicons.org/powershell/ffffff" /></br>
+  <img height="50" width="50" src="https://cdn.simpleicons.org/python/ffffff" /></br>
     <br><img height="50" width="50" src="https://cdn.simpleicons.org/linux/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/archlinux/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/neovim/ffffff" />
