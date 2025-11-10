@@ -1,4 +1,6 @@
-<h1><img width="100" height="100" place="bottom" alt="OnuTembeleque" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" />୭ ˚. ᵎᵎHi!, I'm onu</h1>
+<div align="center">
+  <h1><img width="100" height="100" place="bottom" alt="OnuTembeleque" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-    9e94-cd344570c237" />୭ ˚. ᵎᵎHi!, I'm onu</h1>
+</div>
 
 <div align="center">
   <br>𓍯𓂃 𝙸 𝚕𝚘𝚟𝚎 𝚕𝚎𝚊𝚛𝚗 𝚊𝚋𝚘𝚞𝚝 𝚊𝚗𝚢𝚝𝚑𝚒𝚗𝚐</br>
