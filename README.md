@@ -14,7 +14,28 @@
 
 <h1>₊˚⊹⋆My Skills!</h1>
 
-<img height="32" width="32" src="https://cdn.simpleicons.org/html5/ffffff" />
+<div align="center">
+  <br><img height="50" width="50" src="https://cdn.simpleicons.org/html5/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/css/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/react/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/electron/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/lua/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/c/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/python/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/powershell/ffffff" /></br>
+    <br><img height="50" width="50" src="https://cdn.simpleicons.org/html5/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/css/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/react/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/electron/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/tailwindcss/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/lua/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/c/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/python/ffffff" />
+  <img height="50" width="50" src="https://cdn.simpleicons.org/powershell/ffffff" /></br>
+</div>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobepremierepro,adobeaftereffects)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=linux,bash,archlinux,neovim)</br>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=javascript,reactjs,electron,tailwind,lua,c,typescript,powershell)</br>
