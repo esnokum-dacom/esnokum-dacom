@@ -14,7 +14,7 @@
 
 <h1>₊˚⊹⋆My Skills!</h1>
 
-<div align="center">
+<br><div align="center">
   <br><img height="50" width="50" src="https://cdn.simpleicons.org/html5/ffffff" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/javascript/ffffff" />
   <img height="50" width="50" src="https://cdn.simpleicons.org/css/ffffff" />
@@ -29,7 +29,7 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/neovim/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/ffffff" /></br>
     <br><img height="200" width="200" src="https://skillicons.dev/icons?i=blender,ae,ps,pr" /></br>
-</div>
+</div></br>
 
 <a href="https://esnokumdacom.pythonanywhere.com/link">
   <img
