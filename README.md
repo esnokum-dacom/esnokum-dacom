@@ -1,6 +1,6 @@
 <div>
   
-  <h1 align="center"><img width="100" height="100" place="top" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" /> ୭ ˚. ᵎᵎHi!, I'm onu</h1>
+  <h1 align="center"><img width="100" height="100" place="top" src="https://github.com/user-attachments/assets/f64b2a49-2baf-4409-9e94-cd344570c237" /> ୭ ˚. ᵎᵎ𝙷𝚒!, 𝙸'𝚖 𝚘𝚗𝚞</h1>
 </div>
 
 <div align="center">
