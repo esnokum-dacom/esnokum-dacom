@@ -31,7 +31,7 @@
     <img height="50" width="50" src="https://cdn.simpleicons.org/gnubash/ffffff" /></br>
     <br><img height="50" width="50" src="https://cdn.simpleicons.org/blender/ffffff" />
     <img height="50" width="50" src="https://cdn.simpleicons.org/adobephotoshop/ffffff" />
-    <img height="50" width="50" src="https://cdn.simpleicons.org/aftereffects/ffffff" />
+    <i class="devicon-aftereffects-plain"></i>
     <img height="50" width="50" src="https://cdn.simpleicons.org/premierepro/ffffff" /></br>
 </div>
 <br>![Skills](https://skills.syvixor.com/api/icons?i=blender,adobephotoshop,adobepremierepro,adobeaftereffects)</br>
