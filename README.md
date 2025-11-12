@@ -35,5 +35,6 @@
   <img
     src="https://esnokumdacom.pythonanywhere.com?theme=dark"
     alt="Current Spotify Song"
+    align="center"
   />
 </a>
