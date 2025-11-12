@@ -31,7 +31,7 @@
     <br><img height="200" width="200" src="https://skillicons.dev/icons?i=blender,ae,ps,pr" /></br>
 </div></br>
 
-<a href="https://esnokumdacom.pythonanywhere.com/link">
+<a href="https://esnokumdacom.pythonanywhere.com/link" align="center">
   <img
     src="https://esnokumdacom.pythonanywhere.com?theme=dark"
     alt="Current Spotify Song"
